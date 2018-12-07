@@ -19,7 +19,7 @@
 依赖于https://github.com/dbrandt/proc_events项目，用于监听Netlink Socket。
 
 
-#useage
+# useage
 cd proc_events
 python setup.py install
 
