@@ -17,3 +17,11 @@
 ### Dependency
 
 依赖于https://github.com/dbrandt/proc_events项目，用于监听Netlink Socket。
+
+
+
+cd proc_events
+python setup.py install
+
+cd ..
+python agent/seesaw.py
